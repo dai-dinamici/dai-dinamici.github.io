@@ -6,11 +6,11 @@ categories = ["news", "events"]
 
 The [Institute of Science and Technology Austria (ISTA)](https://ist.ac.at/en/home) 
 organizes the 
-[*ISTA Summer School in Dynamical Systems*](https://dynamics-summerschool2025.pages.ist.ac.at/), 
+[ISTA Summer School in Dynamical Systems](https://dynamics-summerschool2025.pages.ist.ac.at/), 
 which will take place on **September 22-26, 2025**, in Strobl (Austria).
 
-The school will consist of five mini-courses given by Alberto Abbondandolo, 
-Pierre Berger, Abed Bounemoura, Marcel Guardia and Dalia Terhesiu. There will also 
+The school will consist of five mini-courses given by *Alberto Abbondandolo, 
+Pierre Berger, Abed Bounemoura, Marcel Guardia and Dalia Terhesiu*. There will also 
 be a small number of contributed talks and a poster session.
 
 For junior participants selected for the school, the organization will cover local 
