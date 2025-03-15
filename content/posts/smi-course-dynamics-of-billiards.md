@@ -1,6 +1,6 @@
 +++
 categories = ["news", "events"]
-date = "2025-05-15 12:45:00"
+date = "2025-03-15 12:45:00"
 title = "SMI Course on `Dynamics of Billiards’, Cortona, June 29 - July 4, 2025" 
 +++
 
