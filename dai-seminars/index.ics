@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Giovanni Canestrari 'TBA' - Wael Bahsoun 'TBA'
+UID:2025-03-21 08:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250321T083900
+
+DTSTART:20250408T160000
+
+
+DTEND:20250408T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2025-04-canestrari-bahsoun/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Lai-Sang Young 'Dynamics of the visual system' - Kevin K. Lin 'Coarse-grained modeling of the primary visual cortex'
 UID:2025-01-21 08:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
