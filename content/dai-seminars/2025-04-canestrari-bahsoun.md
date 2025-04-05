@@ -2,7 +2,7 @@
 affiliation = ["Università di Bologna","Loughborough University"]
 categories = ["dai-seminar"] 
 date = "2025-03-21 08:39:00"
-zoom = "" 
+zoom = "https://univ-lille-fr.zoom.us/j/92183495732?pwd=ZFaaXqCbTAdlHz2g3ODfnGBYwaztgO.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["Linear response: from physics to dynamical systems and back", "Linear response due to singularities"] 
 speaker = ["Giovanni Canestrari", "Wael Bahsoun"] 
