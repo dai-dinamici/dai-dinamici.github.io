@@ -13,8 +13,8 @@ The research concerns a collaboration with King’s College London (Dr Matteo Ta
 
 This position is well-suited for candidates with expertise in one or more of the following areas: 
 (random) dynamical systems and ergodic theory with affinity for and/or experience with research in dynamical systems on networks.
-We welcome applications from candidates with theoretical as well as those with computational expertise.
+Applications are welcome from candidates with theoretical as well as those with computational expertise.
 
-**The application deadline is Tuesday 22 April 2025**.
+**Deadline for application:** Tuesday 22 April 2025.
 
-For more details and information on how to apply, see [this page](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=23525&jobTitle=Research+Associate+in+Dynamical+Systems).
+**All details and information on how to apply:** <https://tinyurl.com/3yc2f96c>.
