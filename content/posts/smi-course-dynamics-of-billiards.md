@@ -32,6 +32,6 @@ in the presence of singularities and will see a fairly detailed sketch of the pr
 the ergodicity of the Sinai billiard, a.k.a. Lorentz gas. A minimal background in measure 
 theory is required; some rudiments of ergodic theory are welcome.
 
-**Deadline for application:** April 15, 2025
+**Deadline for application:** April 30, 2025
 
 **All info at:** <https://www.smi-math.unipr.it/cortona/30/>
