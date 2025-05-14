@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Stefano Marmi 'TBA' - Matteo Tanzi 'TBA'
+UID:2025-05-14 08:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250514T083900
+
+DTSTART:20250609T160000
+
+
+DTEND:20250609T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2025-06-marmi-tanzi/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Giovanni Canestrari 'Linear response: from physics to dynamical systems and back' - Wael Bahsoun 'Linear response due to singularities'
 UID:2025-03-21 08:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
