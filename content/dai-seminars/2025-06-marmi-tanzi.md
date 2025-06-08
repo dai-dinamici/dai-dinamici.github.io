@@ -2,7 +2,7 @@
 affiliation = ["Scuola Normale Superiore Pisa","King's College London"]
 categories = ["dai-seminar"] 
 date = "2025-05-14 08:39:00"
-zoom = "-" 
+zoom = "https://univ-lille-fr.zoom.us/j/92037650517?pwd=Rjs8A2xHrZKMxQR8BIuent9NBcudCl.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["Why are dynamical systems and ergodic theory relevant to economics and finance?", "Leverage Dynamics in Banks Interacting through an Asset"] 
 speaker = ["Stefano Marmi", "Matteo Tanzi"] 
