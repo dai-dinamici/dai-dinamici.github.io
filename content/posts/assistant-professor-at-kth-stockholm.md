@@ -6,7 +6,7 @@ title = "Assistant Professor in Mathematics at KTH Stockholm"
 
 The [Royal Institute of Technology (KTH)](https://www.kth.se/) invites applications for
 the position of *Assistant Professor in Mathematics* with specialization in Mathematical 
-Analysis, menat in a broad sense, including not only central areas of analysis, but also 
+Analysis, meant in a broad sense, including not only central areas of analysis, but also 
 areas of mathematics where analysis is a dominating characteristic. Examples of the latter 
 include subareas of dynamical systems, geometry, mathematical physics, partial differential 
 equations, probability theory and number theory.
