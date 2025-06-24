@@ -4,7 +4,7 @@ date = "2025-06-20 19:30:00"
 title = "Assistant Professor in Mathematics at KTH Stockholm"
 +++
 
-The [Royal Institute of Technology (KTH)](https://www.kth.se/) invites applications for
+The [Royal Institute of Technology (KTH)](https://www.kth.se/en) invites applications for
 the position of *Assistant Professor in Mathematics* with specialization in Mathematical 
 Analysis, meant in a broad sense, including not only central areas of analysis, but also 
 areas of mathematics where analysis is a dominating characteristic. Examples of the latter 
