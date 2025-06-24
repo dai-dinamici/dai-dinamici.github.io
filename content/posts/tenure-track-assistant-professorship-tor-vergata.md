@@ -1,8 +1,7 @@
 +++
 categories = ["news", "open-positions"]
 date = "2025-06-24 12:00:00"
-title = "Tenure-track Assistant Professorship in Mathematical Analysis and/or
-Probability at Rome Tor Vergata"
+title = "Tenure-track Assistant Professorship in Mathematical Analysis and/or Probability at Rome Tor Vergata"
 +++
 
 The [Department of Mathematics at the University of Rome Tor Vergata](https://www.mat.uniroma2.it/english2.php) 
