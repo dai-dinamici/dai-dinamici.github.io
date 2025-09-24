@@ -1,13 +1,13 @@
 +++
 affiliation = ["Scuola Normale Superiore Pisa","King's College London"]
 categories = ["dai-seminar"] 
-date = "2025-05-14 08:39:00"
-zoom = "POSTPONED" 
+date = "2025-09-24 17:39:00"
+zoom = "" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["Why are dynamical systems and ergodic theory relevant to economics and finance?", "Leverage Dynamics in Banks Interacting through an Asset"] 
 speaker = ["Stefano Marmi", "Matteo Tanzi"] 
-start = "2025-06-09 16:00:00" 
-end = "2025-06-09 18:00:00" 
+start = "2025-10-09 16:00:00" 
+end = "2025-10-09 18:00:00" 
 title = "Stefano Marmi (Scuola Normale Superiore Pisa) and Matteo Tanzi (King's College London)" 
 abstract = ["""Well established economic and financial models provide valuable insights but
 many real-world phenomena, such as persistent commodity cycles and systemic financial crises, exhibit complex dynamics that challenge standard equilibrium frameworks. Moreover, market "imperfections," like limited liquidity and regulatory impacts during stress, can lead to non-linear deterministic behavior. Noise can also be related to different time scales (and delays) between market data and agents' portfolio allocation decisions. 
