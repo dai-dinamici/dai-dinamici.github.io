@@ -4,7 +4,7 @@ date = "2025-10-17 9:34:47"
 title = "DAI Day VI - save the date"
 +++
 
-We are happy to announce that the Fifth DAI Day will take place on **December 19, 2025 in Padova**.
+We are happy to announce that the Sixth DAI Day will take place on **December 19, 2025 in Padova**.
 
 As is tradition by now, there will be seminars and the official assembly of the [UMI Group
 DinAmicI](https://umi.dm.unibo.it/gruppi-umi-2/gruppo-umi-dinamici/).
