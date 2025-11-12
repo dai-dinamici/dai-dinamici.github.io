@@ -14,8 +14,8 @@ Possible applications of the new theory include the analysis of spatiotemporal d
 Motivating aims include the discovery and analysis of hidden large-scale patterns in data/models, elucidating mechanisms underlying the emergence of these large-scale phenomena 
 and their response to perturbations, and devising reliable automatic schemes for predicting this emergence and quantifying their response.
 
-**Deadline for the application:** Thursday 20 November 2025.
+**Deadline for the application:** Thursday 20 November 2025
  
-**Salary:** $113K - $121K plus 17% superannuation and annual leave loading
+**Salary:** \$113K - \$121K plus 17% superannuation and annual leave loading
 
 **Applications** should be submitted online using the following link: <https://external-careers.jobs.unsw.edu.au/cw/en/job/535933/postdoctoral-fellow-mathematics-statistics>
