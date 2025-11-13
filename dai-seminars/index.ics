@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Elise Goujard 'TBA' - Magali Jay 'TBA'
+UID:2025-11-13 10:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251113T103900
+
+DTSTART:20251209T160000
+
+
+DTEND:20251209T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2025-12-goujard-jay/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Stefano Marmi 'Why are dynamical systems and ergodic theory relevant to economics and finance?' - Matteo Tanzi 'Leverage Dynamics in Banks Interacting through an Asset'
 UID:2025-09-24 17:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
