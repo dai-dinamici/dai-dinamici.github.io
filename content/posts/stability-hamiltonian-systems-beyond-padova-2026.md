@@ -11,15 +11,17 @@ The two conferences will focus on the most important theoretical aspects in the 
 specifically motivated by the quest for extending this analysis and the available tools beyond the current range of applicability, including to certain types of non Hamiltonian systems.
 The conference FassòFest will be a celebration of our colleague and friend Francesco Fassò on the occasion of his 70th birthday.
 
-*Dates*: 26-29th January 2026 (Stability of Hamiltonian systems and beyond), 30-31st January 2026 (FassòFest)
+**Dates**: 26-29th January 2026 (*Stability of Hamiltonian systems and beyond*), 30-31st January 2026 (*FassòFest*)
 
-*Location*: Department of Mathematics “Tullio Levi Civita”, University of Padova, Italy.
+**Location**: Department of Mathematics “Tullio Levi Civita”, University of Padova, Italy.
 
 The conferences will host mostly invited talks and there will be a poster session.
 
-*Deadline for registration*: November 30th, 2025.
+**Deadline for registration**: November 30th, 2025.
 
-For more information, registration and poster submission please visit <https://sites.google.com/view/stability-hamiltonian-beyond/home> and <https://sites.google.com/view/fasso-day/home>
+For more information, registration and poster submission please visit  
+<https://sites.google.com/view/stability-hamiltonian-beyond/home> and  
+<https://sites.google.com/view/fasso-day/home>.
 
 Invited Speakers for "Stability of Hamiltonian systems and beyond":
 
