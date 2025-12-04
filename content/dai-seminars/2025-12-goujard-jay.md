@@ -2,7 +2,7 @@
 affiliation = ["Nantes Université","Max Planck Institute Leipzig"]
 categories = ["dai-seminar"] 
 date = "2025-11-13 10:39:00"
-zoom = "" 
+zoom = "https://univ-lille-fr.zoom.us/j/92060596671?pwd=oNXmdhzveyJJ6qVm2l1Ntpq34hq5ua.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["An introduction to dynamics of polygonal billiards", "Tiling billiard in the wind-tree model"] 
 speaker = ["Elise Goujard", "Magali Jay"] 
