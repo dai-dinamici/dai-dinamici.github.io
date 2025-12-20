@@ -1,7 +1,7 @@
 +++
 categories = ["news", "open-positions"]
 date = "2025-11-19 10:00:00"
-title = "One-year postdoc in dynamics at Oregon State Universty"
+title = "One-year postdoc in dynamics at Oregon State University"
 +++
 
 The Mathematics Department at Oregon State University invites applications for one full-time 12-month Postdoctoral Scholar position in Dynamical Systems beginning 
