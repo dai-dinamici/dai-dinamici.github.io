@@ -383,9 +383,15 @@
     "path": "wp-content/07d1615.jpg"
   },
   {
-    "name": "Francesco Fass\u00f2",
+    "name": "Francesco Fassò",
     "umi": false,
     "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Marco Farotti",
+    "umi": false,
+    "path": "images/farotti.jpeg",
+    "affiliation": "Doctoral School in Computer Science and Mathematics, University of Camerino"
   },
   {
     "name": "Livio Flaminio",
