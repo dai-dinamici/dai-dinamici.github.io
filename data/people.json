@@ -345,6 +345,11 @@
     "homepage": "http://faculty.fairfield.edu/mdemers/"
   },
   {
+    "name": "Nicola De Nitti",
+    "umi": true,
+    "path": "images/default-profile.svg"
+  },
+  {
     "name": "Francesca Di Patti",
     "umi": true,
     "path": "images/francesca_di_patti.png",
@@ -383,15 +388,15 @@
     "path": "wp-content/07d1615.jpg"
   },
   {
-    "name": "Francesco Fassò",
-    "umi": false,
-    "path": "images/default-profile.svg"
-  },
-  {
     "name": "Marco Farotti",
     "umi": false,
     "path": "images/farotti.jpeg",
     "affiliation": "Doctoral School in Computer Science and Mathematics, University of Camerino"
+  },
+  {
+    "name": "Francesco Fassò",
+    "umi": false,
+    "path": "images/default-profile.svg"
   },
   {
     "name": "Livio Flaminio",
