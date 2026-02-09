@@ -2,7 +2,7 @@
 affiliation = ["Universidade de Aveiro","Università di Pisa"]
 categories = ["dai-seminar"] 
 date = "2026-01-20 11:39:00"
-zoom = "" 
+zoom = "https://univ-lille-fr.zoom.us/j/94034817986?pwd=5DqZvockPuyJxRb89DtaubfigJzi8g.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["On the decay of correlations for codimension-one hyperbolic attractors", "Exponential decay of correlations for two families of suspension flows over non-compact spaces"] 
 speaker = ["Paulo Varandas", "Nicola Bertozzi"] 
