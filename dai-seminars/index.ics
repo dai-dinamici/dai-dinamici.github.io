@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Ian Melbourne 'Mixing for infinite measure systems' - Douglas Coates 'Global-local mixing for intermittent maps'
+UID:2026-02-25 17:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260225T173900
+
+DTSTART:20260310T160000
+
+
+DTEND:20260310T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2026-03-melbourne-coates/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Paulo Varandas 'On the decay of correlations for codimension-one hyperbolic attractors' - Nicola Bertozzi 'Exponential decay of correlations for two families of suspension flows over non-compact spaces'
 UID:2026-01-20 11:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
