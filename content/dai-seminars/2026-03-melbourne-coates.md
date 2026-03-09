@@ -2,7 +2,7 @@
 affiliation = ["University of Warwick","Universidade Federal do Rio de Janeiro"]
 categories = ["dai-seminar"] 
 date = "2026-02-25 17:39:00"
-zoom = "" 
+zoom = "https://univ-lille-fr.zoom.us/j/91932101908?pwd=ibRGwYrOZT7ldWArW6VEcfsvyx2I6b.1" 
 outputs = ["HTML", "Calendar"] 
 seminar = ["Mixing for infinite measure systems", "Global-local mixing for intermittent maps"] 
 speaker = ["Ian Melbourne", "Douglas Coates"] 
