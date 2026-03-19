@@ -286,6 +286,13 @@
     "affiliation": "PhD Student at University of S\u00e3o Paulo "
   },
   {
+    "name": "Matteo Colangeli",
+    "umi": true,
+    "path": "images/colangeli.jpg",
+    "affiliation": "Università degli Studi dell'Aquila",
+    "homepage": "https://www.disim.univaq.it/MatteoColangeli"
+  },
+  {
     "name": "Giampaolo Cristadoro",
     "umi": true,
     "path": "images/default-profile.svg"
