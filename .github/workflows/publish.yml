@@ -17,6 +17,34 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Check markdown files location
+        if: github.event_name == 'pull_request'
+        run: |
+          echo "Checking for markdown files added outside the content folder..."
+          # Get all added files in the PR
+          ADDED_MD_FILES=$(git diff --name-only --diff-filter=A origin/${{ github.base_ref }}..HEAD -- '*.md' 2>/dev/null || echo "")
+          
+          if [ -z "$ADDED_MD_FILES" ]; then
+            echo "No markdown files added."
+            exit 0
+          fi
+          
+          # Check if any .md files are outside the content folder
+          INVALID_FILES=""
+          while IFS= read -r file; do
+            if [[ ! "$file" =~ ^content/ ]]; then
+              INVALID_FILES="$INVALID_FILES$file"$'\n'
+            fi
+          done <<< "$ADDED_MD_FILES"
+          
+          if [ -n "$INVALID_FILES" ]; then
+            echo "ERROR: Markdown files must be added inside the 'content' folder:"
+            echo "$INVALID_FILES"
+            exit 1
+          fi
+          
+          echo "All markdown files are in the correct location."
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
