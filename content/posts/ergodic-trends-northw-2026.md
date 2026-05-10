@@ -1,7 +1,7 @@
 +++
 categories = ["news", "events"]
 date = "2026-05-10 16:30:00"
-title = "Recent Trends in Ergodic Theory, Symbolic Dynamics, and Connections to Combinatorics - Aug-Sep 2026, Northwestern University (USA)"
+title = "Recent Trends in Ergodic Theory, Symbolic Dynamics, and Connections to Combinatorics - Aug-Sep 2026, Northwestern University"
 +++
 
 The conference **Recent Trends in Ergodic Theory, Symbolic Dynamics, and Connections to Combinatorics** will take place on **August 31 - September 4, 2026** at 
