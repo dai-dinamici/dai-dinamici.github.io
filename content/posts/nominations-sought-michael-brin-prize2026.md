@@ -1,5 +1,5 @@
 +++
-categories = ["events", "news"]
+categories = ["news"]
 date = "2026-05-16 21:30:00"
 title = "Nominations sought for the Michael Brin Dynamical Systems Prize for Young Mathematicians 2026"
 +++
@@ -18,4 +18,4 @@ complete proofs must be available as preprints.
 **Web page of the prize:** <https://science.psu.edu/math/research/dynsys/dynamical-systems-prize-young-mathematicians>
 
 Please send your nomination, accompanied by a short motivation, to [Giovanni Forni](mailto:gforni@umd.edu) 
-by May 31st, 2026. 
+by **May 31st, 2026**. 
