@@ -2,7 +2,7 @@
 affiliation = ["Università di Padova & Sorbonne Universitè","."]
 categories = ["dai-seminar"] 
 date = "2026-05-22 17:39:00"
-zoom = "" 
+zoom = "https://us05web.zoom.us/j/89434967368?pwd=bjZZkUIP5oaQrWUF2ckRypRFoImXow.1"
 outputs = ["HTML", "Calendar"] 
 seminar = ["Recent developments on the Birkhoff attractor", "."] 
 speaker = ["Olga Bernardi & Vincent Humilière", "."] 
