@@ -65,7 +65,7 @@
       >.
     </div>
 
-    {{ $dataJ := getJSON "data/people.json" }} {{ range $dataJ }}
+    {{ $dataJ := site.Data.people }} {{ range $dataJ }}
 
     <div class="profile-container {{ if .umi }}umi{{ end }}">
       <div class="circle"></div>
