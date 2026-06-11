@@ -1,6 +1,6 @@
 baseURL = "https://www.dinamici.org/"
 description = "The Community of Italian Dynamicists"
-languageCode = "en-US"
+locale = "en-US"
 theme = "mainroad"
 title = "DinAmicI"
 [Params]
@@ -40,4 +40,6 @@ url = "https://www.youtube.com/channel/UCyNNg155G3iLS7l-qZjboyg"
 [outputFormats.Calendar]
 protocol = "https://"
 [permalinks]
-posts = "/:year/:month/:slugorfilename/"
+posts = "/:year/:month/:slugorcontentbasename/"
+[markup.goldmark.renderer]
+unsafe = true
