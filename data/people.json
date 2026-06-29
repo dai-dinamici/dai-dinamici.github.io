@@ -735,6 +735,13 @@
     "path": "images/default-profile.svg"
   },
   {
+    "name": "Eleonora Passaglia",
+    "umi": false,
+    "path": "images/passaglia.jpg",
+    "affiliation": "Universität Zürich, Institut für Mathematik",
+    "homepage": "https://www.math.uzh.ch/en/member/passaglia?cHash=d77fc98b4d19cfb4ba70f48354af1e90"
+  },
+  {
     "name": "Tiziano Penati",
     "umi": false,
     "path": "images/default-profile.svg",
