@@ -6,8 +6,8 @@ title = "DinAmicI IX"
 
 We are happy to announce that the ninth edition of our workshop **"DinAmicI IX"** will take place at the *Centro De Giorgi, Pisa* on **October 19-22, 2026.** 
 
-All the information is available at the website: <https://indico.sns.it/event/146/>
+All information is available at the website: <https://indico.sns.it/event/146/>
 
-There is a deadline for registration: **August 25**.
+Deadline for registration: **August 25**.
 
 We hope to see you at our biennial main event!
