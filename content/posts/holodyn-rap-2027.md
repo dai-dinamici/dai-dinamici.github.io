@@ -8,7 +8,7 @@ The conference [**Holomorphic Dynamics: Recent Advances and Perspectives (HoloDy
 
 The meeting will celebrate **Núria Fagella’s 60th birthday** and the **25th anniversary of the Barcelona HoloDyn group**. It will bring together researchers from across complex dynamics, with particular encouragement for PhD students and early-career researchers to participate.
 
-Because accommodation at the hotel is limited, prospective participants are asked to complete the **non-binding pre-registration form** available on the conference website. Invited speakers do not need to pre-register.
+Because accommodation at the hotel is limited, prospective participants are asked to complete the **non-binding pre-registration form** available on the conference website. 
 
 Formal registration will open in **September 2026**. Financial support is expected to be available for junior researchers.
 
