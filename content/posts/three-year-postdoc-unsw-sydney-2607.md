@@ -4,7 +4,7 @@ date = "2026-07-22 18:00:00"
 title = "Three-year postdoc in dynamical systems at UNSW Sydney"
 +++
 
-The School of Mathematics and Statistics at UNSW Sydney advertises a postdoctoral position in dynamical systems within a five-year Australian Research Council Laureate Fellowship project led by Gary Froyland.
+The School of Mathematics and Statistics at UNSW Sydney advertises a postdoctoral position in dynamical systems within a five-year Australian Research Council Laureate Fellowship project led by [Gary Froyland](https://www.unsw.edu.au/staff/gary-froyland).
 
 The project aims to develop new methods for the analysis of dynamical systems, drawing on functional analysis, operator theory, ergodic theory, differential geometry, data science, and machine learning. Possible research topics include linear response, statistical limit laws, random and nonautonomous dynamical systems, spectral analysis, data-driven dynamics, stability and perturbation theory, and rigorous numerics.
 
