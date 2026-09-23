@@ -38,6 +38,41 @@ ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
 
 
 SUMMARY:DAI Seminar
+DESCRIPTION:Anna Florio 'tba' - Corentin Fierobe 'tba'
+UID:2026-09-22 10:39:00 +0000 UTC@dinamici.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260922T103900
+
+DTSTART:20261007T160000
+
+
+DTEND:20261007T180000
+
+LOCATION:TBD
+URL:https://www.dinamici.org/dai-seminars/2026-10-florio-fierobe/
+
+
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="IVE PTA":mailto:dinamici.org@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY:DAI Seminar
 DESCRIPTION:Olga Bernardi & Vincent Humilière 'Recent developments on the Birkhoff attractor' - . '.'
 UID:2026-05-22 17:39:00 +0000 UTC@dinamici.org
 SEQUENCE:0
