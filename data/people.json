@@ -406,6 +406,12 @@
     "path": "images/default-profile.svg"
   },
   {
+    "name": "Simona Felice",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Universit\u00e0 di Pisa"
+  },
+  {
     "name": "Livio Flaminio",
     "umi": false,
     "path": "images/default-profile.svg",
@@ -578,6 +584,13 @@
     "name": "Iacopo Longo",
     "umi": false,
     "path": "images/default-profile.svg"
+  },
+  {
+    "name": "Camilla Lucamarini",
+    "umi": false,
+    "path": "images/camilla_lucamarini.jpg",
+    "affiliation": "Universit\u00e0 di Pisa",
+    "homepage": "https://www.unipi.it/ateneo/organizzazione/persone/camilla-lucamarini-219389/"
   },
   {
     "name": "Stefano Luzzatto",
@@ -775,6 +788,12 @@
     "path": "images/default-profile.svg"
   },
   {
+    "name": "Mattia Radice",
+    "umi": false,
+    "path": "images/default-profile.svg",
+    "affiliation": "Università di Pisa"
+  },
+  {
     "name": "Jasmin Raissy",
     "umi": true,
     "path": "images/default-profile.svg",
@@ -791,7 +810,7 @@
     "name": "Francesca Rindi",
     "umi": false,
     "path": "images/default-profile.svg",
-    "affiliation": "Università di Pisa"
+    "affiliation": "CY Cergy Paris Universit\u00e9"
   },
   {
     "name": "Bruno Alexandre Rodrigues ",
