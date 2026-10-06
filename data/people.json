@@ -887,6 +887,12 @@
     "homepage": "https://tanja-schindler.github.io/"
   },
   {
+    "name": "Mattia Sensi",
+    "umi": true,
+    "path": "images/mattia_sensi.jpg",
+    "homepage": "https://mattiasensi.github.io/"
+  },
+  {
     "name": "Bob Senyange",
     "umi": false,
     "path": "images/bob_senyange.jpg",
