@@ -973,7 +973,7 @@
     "name": "Aditya Thorat",
     "umi": false,
     "path": "images/default-profile.svg",
-    "affiliation": "Tata Institute of Fundamental Research - Centre for Applicable Mathematics"
+    "affiliation": "Tata Institute of Fundamental Research, Centre for Applicable Mathematics"
   },
   {
     "name": "Sharvari Tikekar",
@@ -983,7 +983,7 @@
     "homepage": "https://sharvaritik.github.io/"
   },
   {
-    "name": "Michele Triestino ",
+    "name": "Michele Triestino",
     "umi": false,
     "path": "images/michele_triestino.jpg",
     "affiliation": "Universit\u00e9 de Bourgogne",
@@ -997,7 +997,14 @@
   {
     "name": "Corinna Ulcigrai",
     "umi": false,
-    "path": "images/default-profile.svg"
+    "path": "images/default-profile.svg",
+    "affiliation": "Universität Zürich"
+  },
+  {
+    "name": "Andrea Ulliana",
+    "umi": false,
+    "path": "images/andrea_ulliana.jpg",
+    "affiliation": "Centre de Mathématiques Laurent-Schwartz (CMLS), École Polytechnique, Paris"
   },
   {
     "name": "Sandro Vaienti",
@@ -1030,7 +1037,7 @@
     "name": "Paul Verschueren",
     "umi": false,
     "path": "images/default-profile.svg",
-    "affiliation": "Imperial College, London, UK"
+    "affiliation": "Imperial College, London"
   },
   {
     "name": "Helder Vilarinho",
