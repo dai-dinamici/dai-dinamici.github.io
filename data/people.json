@@ -998,13 +998,13 @@
     "name": "Corinna Ulcigrai",
     "umi": false,
     "path": "images/default-profile.svg"
-    "affiliation": "Universität Zürich",
+    "affiliation": "Universität Zürich"
   },
   {
     "name": "Andrea Ulliana",
     "umi": false,
-    "path": "images/andrea_ulliana.jpg"
-    "affiliation": "Centre de Mathématiques Laurent-Schwartz (CMLS), École Polytechnique, Paris",
+    "path": "images/andrea_ulliana.jpg",
+    "affiliation": "Centre de Mathématiques Laurent-Schwartz (CMLS), École Polytechnique, Paris"
   },
   {
     "name": "Sandro Vaienti",
