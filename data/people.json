@@ -89,8 +89,10 @@
   },
   {
     "name": "Vivina Barutello",
-    "umi": false,
-    "path": "images/default-profile.svg"
+    "umi": true,
+    "path": "images/vivina_barutello.jpg",
+    "affiliation": "Università di Torino",
+    "homepage": "https://www.dipmatematica.unito.it/persone/vivina.barutello"
   },
   {
     "name": "Armando Bazzani",
