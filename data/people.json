@@ -109,6 +109,12 @@
     "homepage": "http://adams.dm.unipi.it/~bau/"
   },
   {
+    "name": "Jonathan Ben-Artzi",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Università di Roma Tor Vergata"
+  },
+  {
     "name": "Gabriele Benedetti",
     "umi": true,
     "path": "wp-content/WP_20150624_19_05_07_Pro-e1488478879205.jpg"
