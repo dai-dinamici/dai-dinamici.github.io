@@ -365,6 +365,13 @@
     "path": "images/default-profile.svg"
   },
   {
+    "name": "Riccardo De Pascalis",
+    "umi": true,
+    "path": "images/default-profile.svg",
+    "affiliation": "Università del Salento",
+    "homepage": "https://www.unisalento.it/scheda-utente/-/people/riccardo.depascalis/ricerca"
+  },
+  {
     "name": "Francesca Di Patti",
     "umi": true,
     "path": "images/francesca_di_patti.png",
